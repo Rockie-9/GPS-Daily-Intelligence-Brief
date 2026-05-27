@@ -1,0 +1,20 @@
+# Python (production script lives elsewhere, not in this repo)
+__pycache__/
+*.pyc
+.env
+.venv
+venv/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local working files
+*.bak
+*.tmp
